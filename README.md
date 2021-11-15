@@ -4,6 +4,11 @@
 - 🌱 Constantemente estudando e aprendendo C#, JAVA, PHP entre outras várias linguagens de programação. :)
 - 💬 arthurferreira@usp.br
 
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=FilosoDev&show_icons=true)
+
+
+
 <!--
 **FilosoDev/FilosoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
