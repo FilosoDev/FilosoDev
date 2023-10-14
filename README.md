@@ -1,6 +1,7 @@
 ### Arthur A. Ferreira 👋
 
 - 🔭 Atualmente trabalhando como professor na Supervisão de Educação Online - SENAI https://github.com/senaidev-ead/
+- 📚 Pós-graduando em Engenharia da Informação na Universidade Federal do ABC
 - 🌱 Constantemente estudando e aprendendo C#, JAVA, PHP entre outras várias linguagens de programação. :)
 - 💬 arthurferreira@usp.br
 
